@@ -1,0 +1,4 @@
+1. Eli Carter and Kyle Andersen
+2. elivolunteer and kander78vols
+3. https://github.com/elivolunteer/cs302_proj1
+4. We both worked on this assignment almost entirely at the same time, collaboratively. One of us would "drive" by writing the code, and together we would brainstorm the next idea and how to implement. We were both involved in the logic of each part of the code, as we came up with it all collaboritvely by having meetings. 
