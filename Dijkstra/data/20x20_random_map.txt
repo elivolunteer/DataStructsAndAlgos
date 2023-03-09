@@ -1,0 +1,30 @@
+6
+f 3
+g 1
+G 2
+h 4
+m 7
+r 5
+20 20
+hmfGGGmrmfghGGGmrfgh
+hrGmgrgGfhGgrmfrmmrg
+fmfrhhGhhghghgfrrmgf
+hggrGmrfGrgrmmmrhfhr
+mrmgGrgrmggfrhgrfffh
+rhghfmfGGffGrgmmgrrm
+hrmhgmmGgrgfhfgfgrfh
+rrGfmGGhGgGgmmgrrmrg
+hfhhhmGrfffmhrrmrggg
+fgmrmrrghmmfrGhghrgg
+fmrghrGhrgGghGrGhrrm
+ghGGgrmffmrGfGhgmghg
+mmmfgfgGGhmrfGggrGhf
+rmhhGgmfhhGgrgrrrGgf
+fmrGmhfGGmGghmmfmrgr
+mmggggmrhmrggrhmhhmr
+fGghgGmrGmgmhgmfhrmf
+hrfmmfmfrGrhgrgmhGgg
+frmhhhhgrrrffhhGfhfh
+hhmmmrfrGrGhrGfhfmgg
+0 0
+19 19

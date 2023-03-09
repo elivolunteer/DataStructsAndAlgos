@@ -1,0 +1,20 @@
+6
+f 3
+g 1
+G 2
+h 4
+m 7
+r 5
+10 10
+gghrhmmhhh
+ghggfGfggh
+mfmrhhhGgh
+frGmrrrGgg
+rrmrfGGmgr
+fhGmrggGfr
+mhfrGrhgGh
+frmgrmfggG
+GhmGfGhmfh
+GhGgrmrrgg
+0 0
+9 9

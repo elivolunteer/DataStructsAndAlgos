@@ -195,6 +195,15 @@ Node *merge(Node *left, Node *right, bool numeric) {
 		}
 	}
 
+	// Print the numeric values in the list
+	Node *temp = n;
+	while(temp != nullptr)
+	{
+		cout << temp->number << " ";
+		temp = temp->next;
+	}
+	cout << endl;
+
 	return n; // return the "head" node that t built on
 
 }
